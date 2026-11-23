@@ -1,0 +1,6 @@
+{
+  "name": "ClearLedger — Beginner Financial Research",
+  "description": "An educational financial research platform helping beginners understand company fundamentals, stock history, 5-year projections, and market news using illustrative sample data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
